@@ -1,5 +1,7 @@
 # Neural Network Design for Solving the Data Class Imbalance Problem and its Applications on Medical Datasets - Final Thesis
 
+Detailed paper can be accessed from here: https://github.com/emirhanbilgic/SolvingImbalancedClasses-FinalThesis/blob/main/paper.pdf
+
 ## Overview
 This final thesis project, conducted by Emirhan Bilgiç and Emre Akcin under the supervision of Assc. Prof. Dr. İsa Yıldırım addresses the challenge of imbalanced classes in machine learning datasets. Our primary case study utilizes an Alzheimer's dataset from Kaggle.
 
